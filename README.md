@@ -9,3 +9,4 @@ The app will spawn instances of simpleminer for each core with the approperiate 
 
 ####Download
 
+
