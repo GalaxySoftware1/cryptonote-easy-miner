@@ -78,3 +78,4 @@ namespace CryptoNoteMiner.Properties
 }
 
 
+
