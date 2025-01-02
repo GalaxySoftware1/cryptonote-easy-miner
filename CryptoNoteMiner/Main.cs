@@ -257,3 +257,4 @@ namespace CryptoNoteMiner
     }
 }
 
+
