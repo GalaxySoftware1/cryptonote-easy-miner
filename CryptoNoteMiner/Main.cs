@@ -260,3 +260,4 @@ namespace CryptoNoteMiner
 
 
 
+
